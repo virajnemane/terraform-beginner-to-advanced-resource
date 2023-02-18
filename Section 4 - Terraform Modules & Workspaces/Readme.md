@@ -11,12 +11,12 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 | 2 | [Terraform Registry][PlDb] |
 | 3 | [Using Locals with Modules][PlDd] |
 | 4 | [Referencing Module Outputs][PlDe] |
-| 3 | [Implementing Terraform Workspace][PlDc] |
+| 5 | [Implementing Terraform Workspace][PlDc] |
 
 
 
-   [PlDa]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/tree/master/Section%204%20-%20Terraform%20Modules%20%26%20Workspaces/kplabs-modules>
-   [PlDb]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%204%20-%20Terraform%20Modules%20%26%20Workspaces/terraform-registry.md>
-   [PlDc]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%204%20-%20Terraform%20Modules%20%26%20Workspaces/kplabs-workspace.md>
-   [PlDd]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%204%20-%20Terraform%20Modules%20%26%20Workspaces/module-locals>
-   [PlDe]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Section%204%20-%20Terraform%20Modules%20%26%20Workspaces/module-outputs>
+   [PlDa]: <./kplabs-modules>
+   [PlDb]: <./terraform-registry.md>
+   [PlDc]: <./kplabs-workspace.md>
+   [PlDd]: <./module-locals>
+   [PlDe]: <./module-outputs>
